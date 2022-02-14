@@ -1,1 +1,1 @@
-# coreBank
+# coreBank is an online banking app/web
